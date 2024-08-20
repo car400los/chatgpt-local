@@ -174,8 +174,6 @@
     para fijar la versión */
     import { CreateWebWorkerMLCEngine } from "https://cdn.jsdelivr.net/npm/@mlc-ai/web-llm@0.2.46/+esm"
 
-    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-
     const $ = el => document.querySelector(el)
 
     // pongo delante de la variable un símbolo de $
@@ -272,6 +270,9 @@
 
       return $text
     }
+  </script>
+  <script>
+    window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
   </script>
   <script defer src="/_vercel/insights/script.js"></script>
 </head>
