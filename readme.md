@@ -7,6 +7,10 @@ Espero que este proyecto os guste, os parezca interesante o os sea de utilidad e
 AQUI TENÉIS EL LINK A LA WEB DE CLOUDFLARE
 https://chat-gpt-web.pages.dev/
 
+AQUI TENEIS EL DE VERCEL POR SI NO OS VA EL DE CLOUDFLARE O ESTA DESACTUALIZADO
+https://chatgpt-local-six.vercel.app
+
+
 Un saludo ;)
 
 Carlos
