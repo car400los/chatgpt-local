@@ -5,7 +5,7 @@ Y este proyecto se basa en un proyecto el cual hizo midudev el cual estuve sigui
 Espero que este proyecto os guste, os parezca interesante o os sea de utilidad en algun caso, tambien pondre una web de cloudflare a vuestra disposicion para que lo podais ver y probar.
 
 AQUI TENÉIS EL LINK A LA WEB DE CLOUDFLARE
-https://8bc0d89e.chat-gpt-web.pages.dev/
+https://chat-gpt-web.pages.dev/
 
 Un saludo ;)
 
