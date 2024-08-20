@@ -190,7 +190,7 @@
     let messages = []
     let end = false
 
-    const SELECTED_MODEL = 'phi-2-q4f16_1-MLC-1k'
+    const SELECTED_MODEL = 'Hermes-2-Pro-Mistral-7B-q4f16_1-MLC'
 
     const engine = await CreateWebWorkerMLCEngine(
       new Worker('./worker.js', { type: 'module' }),
